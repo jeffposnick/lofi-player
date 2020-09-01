@@ -1,0 +1,13 @@
+{
+  "name": "Lo-Fi Player",
+  "theme_color": "#3840ff",
+  "background_color": "#ff0bae",
+  "display": "standalone",
+  "orientation": "landscape",
+  "start_url": "./?utm_medium=pwa",
+  "icons": [{
+    "src": "./assets/screenshots/screenshot_v.1.0.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
